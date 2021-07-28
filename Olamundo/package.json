@@ -1,0 +1,13 @@
+{
+  "name": "olamundo",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto npm",
+  "main": "olamundo.html",
+  "scripts": {
+  },
+  "keywords": [
+    "olamundo"
+  ],
+  "author": "gabriela melo",
+  "license": "ISC"
+}

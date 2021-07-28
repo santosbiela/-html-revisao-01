@@ -1,0 +1,13 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "Exibir na página um texto sobre como você se vê no mundo daqui a 1 ano",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Gabriela Melo",
+  "license": "ISC"
+}
